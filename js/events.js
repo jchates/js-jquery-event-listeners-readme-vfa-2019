@@ -5,9 +5,9 @@ function getIt(){
   }
 )}
 
-<img>
+<img src="https://s3.amazonaws.com/after-school-assets/minion-tongue.jpg">
 function  framtIt(){ 
-$('').('load', function() {
+$('img').('load', function() {
 })
 
 })
