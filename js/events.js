@@ -14,7 +14,7 @@ $('img').on('load', function(){
 function pressIt(){
   $(document).on('ketypress',
   function(key) {
-    if (key.which===71){
+    spy(key.which===71){
       alert('g was pressed');
     }
     })
