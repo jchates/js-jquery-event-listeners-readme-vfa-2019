@@ -6,8 +6,10 @@ function getIt(){
 )}
 
 function frameIt(){
-$('img').on('load',
-  class{'tasty'})
+$('img').on('load', function(){
+  //actions you want to happen
+});
+}
   
 
 
