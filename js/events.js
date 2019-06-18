@@ -5,6 +5,13 @@ function getIt(){
   }
 )}
 
+<img>
+function  framtIt(){ 
+$('').('load', function() {
+})
+
+})
+
 $(document).ready(function(){
   
 // call functions here
