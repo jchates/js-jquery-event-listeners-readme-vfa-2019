@@ -5,12 +5,15 @@ function getIt(){
   }
 )}
 
-<img src="https://s3.amazonaws.com/after-school-assets/minion-tongue.jpg">
-function  framtIt(){ 
-$('img').('load', function() {
-})
+function frameIt(){
+$('img').on('load',
+function(){
+  class='tasty');
+}
+)};
+  
 
-})
+
 
 $(document).ready(function(){
   
