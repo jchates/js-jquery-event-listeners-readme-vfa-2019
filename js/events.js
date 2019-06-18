@@ -11,7 +11,12 @@ $('img').on('load', function(){
 });
 }
   
-
+function pressIt(){
+  $(document).on('ketypress',
+  function(key) {
+    if (key.which)
+  })
+}
 
 
 $(document).ready(function(){
